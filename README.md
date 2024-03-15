@@ -4,8 +4,6 @@ A KCP packet sniffer + visualizer in one, backend rewritten in Go.
 
 ![Build](https://github.com/Akka0/Iridium-NG/actions/workflows/build.yml/badge.svg)
 
-[中文说明](/README-zh.md)
-
 # Usage
 
 You can download the binary(win/linux) from Actions, or build from source
